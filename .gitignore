@@ -1,0 +1,19 @@
+# Build artifacts
+**/bin/
+**/obj/
+
+# Temporary files
+**/.vs/
+**/.vscode/
+
+# User secrets
+**/appsettings.json*
+
+# Testing and code coverage
+**/coverage/
+**/TestResults/
+
+# NuGet packages (managed by package manager)
+**/packages/
+
+/.idea
